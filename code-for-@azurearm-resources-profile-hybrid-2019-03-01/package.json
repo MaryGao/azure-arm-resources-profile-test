@@ -4,6 +4,6 @@
   },
   "dependencies": {
     "@azure/arm-resources-profile-hybrid-2019-03-01": "^1.2.0",
-    "@azure/ms-rest-js": "^2.7.0"
+    "@azure/ms-rest-js": "^1.11.0"
   }
 }
